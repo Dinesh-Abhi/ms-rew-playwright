@@ -1,0 +1,20 @@
+{
+  "name": "tantrek-script",
+  "version": "1.0.0",
+  "description": "npm install playwright csv-parser",
+  "main": "test1.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "csv-parse": "^5.6.0",
+    "csv-parser": "^3.0.0",
+    "json2csv": "^6.0.0-alpha.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
